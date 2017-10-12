@@ -17,7 +17,7 @@ public class SolrTest {
 	@Test
 	public void hardQuery(){
 		
-		//1.指定solr的服务器地址
+		//1.指定solr的服务器地址你好
 		String solrServerPathString = "http://192.168.6.237:8080/solr/collection1";
 		
 		//2.创建slorServer对象
